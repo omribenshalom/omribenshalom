@@ -20,10 +20,6 @@ JavaScript | TypeScript | React | Angular | Redux | Node.js | Express | MongoDB 
  ### Technologies
 - - - -
  <p align="center">
-  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=4FC08D" />
-  
   <img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
@@ -47,6 +43,8 @@ JavaScript | TypeScript | React | Angular | Redux | Node.js | Express | MongoDB 
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/regex-00000F?style=for-the-badge&logo=regex&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=4FC08D" />
  </p>
  
  <a href="https://www.linkedin.com/in/omri-ben-shalom/" target="_blank">    
