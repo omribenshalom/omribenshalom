@@ -21,6 +21,7 @@ JavaScript | TypeScript | React | Angular | Redux | Node.js | Express | MongoDB 
 - - - -
  <p align="center">
   
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=4FC08D" />
   
   <img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
