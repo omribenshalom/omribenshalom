@@ -20,7 +20,8 @@ JavaScript | TypeScript | React | Angular | Redux | Node.js | Express | MongoDB 
  ### Technologies
 - - - -
  <p align="center">
-  <img src="https://img.shields.io/badge/Heroku-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
+  
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=4FC08D" />
   
   <img src="https://img.shields.io/badge/TypeScript-35495E?style=for-the-badge&logo=TypeScript&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
